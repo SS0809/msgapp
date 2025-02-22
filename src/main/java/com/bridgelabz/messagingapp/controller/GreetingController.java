@@ -7,7 +7,7 @@ public class GreetingController {
     //Get Mapping
     @GetMapping("/sayhello")
     public String sayHello(){
-        return "Hello from Shit";
+        return "Hello from BridgeLabz";
     }
     //Post Mapping
     @PostMapping("/hello")
